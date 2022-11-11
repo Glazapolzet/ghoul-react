@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ghoul-react/static/css/main.3f7416ac.css",
+    "main.js": "/ghoul-react/static/js/main.c6a7064f.js",
+    "static/js/787.a00a4cfd.chunk.js": "/ghoul-react/static/js/787.a00a4cfd.chunk.js",
+    "index.html": "/ghoul-react/index.html",
+    "main.3f7416ac.css.map": "/ghoul-react/static/css/main.3f7416ac.css.map",
+    "main.c6a7064f.js.map": "/ghoul-react/static/js/main.c6a7064f.js.map",
+    "787.a00a4cfd.chunk.js.map": "/ghoul-react/static/js/787.a00a4cfd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f7416ac.css",
+    "static/js/main.c6a7064f.js"
+  ]
+}
